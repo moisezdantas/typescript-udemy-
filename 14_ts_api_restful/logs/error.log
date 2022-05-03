@@ -1,0 +1,41 @@
+2022-04-29 08:41:03:413 - [31merror[39m - [31mNão foi possível conectar[39m
+2022-04-29 08:41:03:413 - [31merror[39m - [31mErro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2022-05-02 07:19:30:1930 - [31merror[39m - [31mNão foi possível conectar[39m
+2022-05-02 07:47:01:471 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:47:19:4719 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:47:38:4738 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:48:23:4823 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:50:08:508 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:51:23:5123 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:52:32:5232 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:53:01:531 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:54:31:5431 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:54:54:5454 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 08:15:46:1546 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "dsdsd" (type string) at path "_id" for model "Movie"[39m
+2022-05-02 08:16:16:1616 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "dsdsd" (type string) at path "_id" for model "Movie"[39m
+2022-05-02 08:16:38:1638 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "12" (type string) at path "_id" for model "Movie"[39m
+2022-05-02 08:22:49:2249 - [31merror[39m - [31mErro no sistema: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'Topology'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'topology' closes the circle[39m
+2022-05-02 08:23:37:2337 - [31merror[39m - [31mErro no sistema: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'Topology'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'topology' closes the circle[39m
+2022-05-02 08:24:04:244 - [31merror[39m - [31mErro no sistema: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'Topology'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'topology' closes the circle[39m
+2022-05-02 08:24:13:2413 - [31merror[39m - [31mErro no sistema: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'Topology'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'topology' closes the circle[39m
+2022-05-02 08:24:33:2433 - [31merror[39m - [31mErro no sistema: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'Topology'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'topology' closes the circle[39m

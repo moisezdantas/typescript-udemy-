@@ -1,9 +1,9 @@
-var firstName = "Moisez";
+var firstName = 'Matheus';
 var anotherName = 1;
 var x = true;
 function greeting(name) {
-    console.log("Ol\u00E1 ".concat(name));
+    console.log('Olá, ' + name);
 }
 greeting(firstName);
-// greeting(anotherName);
-// greeting(x);
+greeting(anotherName);
+greeting(x);

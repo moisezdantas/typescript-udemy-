@@ -1,0 +1,283 @@
+2022-04-29 08:38:57:3857 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:39:52:3952 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:39:52:3952 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:40:11:4011 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:40:11:4011 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:40:19:4019 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:40:19:4019 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:41:03:413 - [31merror[39m - [31mNão foi possível conectar[39m
+2022-04-29 08:41:03:413 - [31merror[39m - [31mErro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2022-04-29 08:41:03:413 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:41:06:416 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:41:06:416 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:41:36:4136 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:41:36:4136 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:42:00:420 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:42:00:420 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:50:56:5056 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:50:56:5056 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:51:11:5111 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:51:11:5111 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:51:14:5114 - [35mhttp[39m - [35mGET : url : status: res[content-length] - 6.623 ms[39m
+[35m[39m
+2022-04-29 08:51:58:5158 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:51:58:5158 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:52:18:5218 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:52:18:5218 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:52:20:5220 - [35mhttp[39m - [35mGET /api/test 304: res[content-length] - 3.001 ms[39m
+[35m[39m
+2022-04-29 08:52:38:5238 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:52:38:5238 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:52:40:5240 - [35mhttp[39m - [35mGET /api/test 304 - - 3.372 ms[39m
+[35m[39m
+2022-04-29 08:53:38:5338 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:53:38:5338 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:53:41:5341 - [35mhttp[39m - [35mGET /api/test 304 - - 4.029 ms[39m
+[35m[39m
+2022-04-29 08:54:39:5439 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-04-29 08:54:39:5439 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-04-29 08:54:49:5449 - [35mhttp[39m - [35mGET /api/test 200 11 - 1.625 ms[39m
+[35m[39m
+2022-05-02 07:19:30:1930 - [31merror[39m - [31mNão foi possível conectar[39m
+2022-05-02 07:24:23:2423 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:24:23:2423 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:24:45:2445 - [35mhttp[39m - [35mPOST /api/movie 200 9 - 2.064 ms[39m
+[35m[39m
+2022-05-02 07:27:46:2746 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:27:46:2746 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:27:55:2755 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:27:55:2755 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:28:16:2816 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:28:16:2816 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:28:21:2821 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:28:21:2821 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:28:42:2842 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:28:42:2842 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:29:23:2923 - [35mhttp[39m - [35mPOST /api/movie 201 159 - 22.877 ms[39m
+[35m[39m
+2022-05-02 07:37:35:3735 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:37:35:3735 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:47:01:471 - [35mhttp[39m - [35mPOST /api/movie 422 13 - 6.816 ms[39m
+[35m[39m
+2022-05-02 07:47:01:471 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:47:19:4719 - [35mhttp[39m - [35mPOST /api/movie 422 13 - 0.636 ms[39m
+[35m[39m
+2022-05-02 07:47:19:4719 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:47:33:4733 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:47:33:4733 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:47:38:4738 - [35mhttp[39m - [35mPOST /api/movie 422 13 - 5.306 ms[39m
+[35m[39m
+2022-05-02 07:47:38:4738 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:48:23:4823 - [35mhttp[39m - [35mPOST /api/movie 422 13 - 0.806 ms[39m
+[35m[39m
+2022-05-02 07:48:23:4823 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:50:08:508 - [35mhttp[39m - [35mPOST /api/movie 422 13 - 0.634 ms[39m
+[35m[39m
+2022-05-02 07:50:08:508 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:51:21:5121 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:51:21:5121 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:51:23:5123 - [35mhttp[39m - [35mPOST /api/movie 422 13 - 6.594 ms[39m
+[35m[39m
+2022-05-02 07:51:23:5123 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:52:31:5231 - [35mhttp[39m - [35mPOST /api/movie 422 13 - 0.873 ms[39m
+[35m[39m
+2022-05-02 07:52:32:5232 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:52:59:5259 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:52:59:5259 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:53:01:531 - [35mhttp[39m - [35mPOST /api/movie 422 13 - 9.945 ms[39m
+[35m[39m
+2022-05-02 07:53:01:531 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:54:28:5428 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:54:28:5428 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:54:31:5431 - [35mhttp[39m - [35mPOST /api/movie 422 13 - 7.858 ms[39m
+[35m[39m
+2022-05-02 07:54:31:5431 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:54:54:5454 - [35mhttp[39m - [35mPOST /api/movie 422 13 - 1.134 ms[39m
+[35m[39m
+2022-05-02 07:54:54:5454 - [31merror[39m - [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-05-02 07:55:41:5541 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:55:41:5541 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:55:42:5542 - [35mhttp[39m - [35mPOST /api/movie 201 159 - 25.974 ms[39m
+[35m[39m
+2022-05-02 07:56:08:568 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:56:08:568 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:56:15:5615 - [35mhttp[39m - [35mPOST /api/movie 201 159 - 21.330 ms[39m
+[35m[39m
+2022-05-02 07:56:51:5651 - [35mhttp[39m - [35mPOST /api/movie 201 159 - 17.199 ms[39m
+[35m[39m
+2022-05-02 07:57:23:5723 - [35mhttp[39m - [35mPOST /api/movie 201 161 - 12.033 ms[39m
+[35m[39m
+2022-05-02 07:57:38:5738 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 07:57:38:5738 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 07:58:01:581 - [35mhttp[39m - [35mPOST /api/movie 201 161 - 22.188 ms[39m
+[35m[39m
+2022-05-02 08:00:21:021 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:00:21:021 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:00:32:032 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:00:32:032 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:00:52:052 - [35mhttp[39m - [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-05-02 08:01:21:121 - [35mhttp[39m - [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-05-02 08:01:42:142 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:01:42:142 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:01:44:144 - [35mhttp[39m - [35mPOST /api/movie 422 198 - 5.423 ms[39m
+[35m[39m
+2022-05-02 08:03:35:335 - [35mhttp[39m - [35mPOST /api/movie 422 55 - 1.581 ms[39m
+[35m[39m
+2022-05-02 08:06:12:612 - [35mhttp[39m - [35mPOST /api/movie 201 671 - 29.176 ms[39m
+[35m[39m
+2022-05-02 08:09:24:924 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:09:24:924 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:09:41:941 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:09:41:941 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:10:07:107 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:10:07:107 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:10:29:1029 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:10:29:1029 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:11:50:1150 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:11:50:1150 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:12:32:1232 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:12:32:1232 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:13:12:1312 - [35mhttp[39m - [35mGET /api/movie/dsdsd 404 154 - 1.094 ms[39m
+[35m[39m
+2022-05-02 08:14:19:1419 - [35mhttp[39m - [35mGET /api/movie/dsdsd 404 154 - 0.284 ms[39m
+[35m[39m
+2022-05-02 08:15:45:1545 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:15:45:1545 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:15:46:1546 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "dsdsd" (type string) at path "_id" for model "Movie"[39m
+2022-05-02 08:15:54:1554 - [35mhttp[39m - [35mGET /api/movie/dsdsd - - - - ms[39m
+[35m[39m
+2022-05-02 08:16:14:1614 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:16:14:1614 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:16:16:1616 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "dsdsd" (type string) at path "_id" for model "Movie"[39m
+2022-05-02 08:16:32:1632 - [35mhttp[39m - [35mGET /api/movie/dsdsd - - - - ms[39m
+[35m[39m
+2022-05-02 08:16:38:1638 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "12" (type string) at path "_id" for model "Movie"[39m
+2022-05-02 08:16:50:1650 - [35mhttp[39m - [35mGET /api/movie/12 - - - - ms[39m
+[35m[39m
+2022-05-02 08:17:24:1724 - [35mhttp[39m - [35mGET /api/movie/626fbb2418fa4c3705dff19c 404 31 - 13.438 ms[39m
+[35m[39m
+2022-05-02 08:17:40:1740 - [35mhttp[39m - [35mGET /api/movie/626fbb2418fa4c3705dff19b - - - - ms[39m
+[35m[39m
+2022-05-02 08:18:01:181 - [35mhttp[39m - [35mGET /api/movie/626fbb2418fa4c3705dff19b - - - - ms[39m
+[35m[39m
+2022-05-02 08:18:05:185 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:18:05:185 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:18:12:1812 - [35mhttp[39m - [35mGET /api/movie/626fbb2418fa4c3705dff19b - - - - ms[39m
+[35m[39m
+2022-05-02 08:18:49:1849 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:18:49:1849 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:18:51:1851 - [35mhttp[39m - [35mGET /api/movie/626fbb2418fa4c3705dff19b 200 671 - 18.453 ms[39m
+[35m[39m
+2022-05-02 08:18:57:1857 - [35mhttp[39m - [35mGET /api/movie/626fbb2418fa4c3705dff19c 404 31 - 8.318 ms[39m
+[35m[39m
+2022-05-02 08:19:02:192 - [35mhttp[39m - [35mGET /api/movie/626fbb2418fa4c3705dff19b 200 671 - 10.231 ms[39m
+[35m[39m
+2022-05-02 08:20:11:2011 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:20:11:2011 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:20:31:2031 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:20:31:2031 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:21:12:2112 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:21:12:2112 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:21:41:2141 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:21:41:2141 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:21:43:2143 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:21:43:2143 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:22:15:2215 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:22:15:2215 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:22:39:2239 - [35mhttp[39m - [35mPOST /api/movie 422 55 - 4.359 ms[39m
+[35m[39m
+2022-05-02 08:22:49:2249 - [31merror[39m - [31mErro no sistema: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'Topology'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'topology' closes the circle[39m
+2022-05-02 08:23:11:2311 - [35mhttp[39m - [35mGET /api/movie - - - - ms[39m
+[35m[39m
+2022-05-02 08:23:36:2336 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:23:36:2336 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:23:37:2337 - [31merror[39m - [31mErro no sistema: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'Topology'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'topology' closes the circle[39m
+2022-05-02 08:24:00:240 - [35mhttp[39m - [35mGET /api/movie - - - - ms[39m
+[35m[39m
+2022-05-02 08:24:04:244 - [31merror[39m - [31mErro no sistema: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'Topology'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'topology' closes the circle[39m
+2022-05-02 08:24:10:2410 - [35mhttp[39m - [35mGET /api/movie - - - - ms[39m
+[35m[39m
+2022-05-02 08:24:13:2413 - [31merror[39m - [31mErro no sistema: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'Topology'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'topology' closes the circle[39m
+2022-05-02 08:24:29:2429 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:24:29:2429 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:24:33:2433 - [31merror[39m - [31mErro no sistema: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'Topology'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'topology' closes the circle[39m
+2022-05-02 08:24:52:2452 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:24:52:2452 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:24:55:2455 - [35mhttp[39m - [35mGET /api/movie 200 3237 - 18.183 ms[39m
+[35m[39m
+2022-05-02 08:26:27:2627 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:26:27:2627 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:26:39:2639 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:26:39:2639 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:27:45:2745 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:27:45:2745 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:28:05:285 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:28:05:285 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:28:19:2819 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:28:19:2819 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:29:08:298 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:29:08:298 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:29:57:2957 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:29:57:2957 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:30:27:3027 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:30:27:3027 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:30:34:3034 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:30:34:3034 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:32:01:321 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:32:01:321 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:32:05:325 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:32:05:325 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:32:48:3248 - [35mhttp[39m - [35mDELETE /api/movie/626fb2839f6113be13ec6b39 200 36 - 35.212 ms[39m
+[35m[39m
+2022-05-02 08:32:52:3252 - [35mhttp[39m - [35mGET /api/movie 200 3077 - 27.076 ms[39m
+[35m[39m
+2022-05-02 08:33:04:334 - [35mhttp[39m - [35mDELETE /api/movie/626fb6a58c1f65707bfdff31 200 36 - 20.970 ms[39m
+[35m[39m
+2022-05-02 08:33:07:337 - [35mhttp[39m - [35mGET /api/movie 200 2917 - 11.118 ms[39m
+[35m[39m
+2022-05-02 08:33:44:3344 - [35mhttp[39m - [35mDELETE /api/movie/626fb6b78c1f65707bfdff33 200 36 - 21.727 ms[39m
+[35m[39m
+2022-05-02 08:34:08:348 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:34:08:348 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:34:45:3445 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:34:45:3445 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:34:58:3458 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:34:58:3458 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:35:34:3534 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:35:34:3534 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:36:39:3639 - [35mhttp[39m - [35mPATCH /api/movie/626fb93930620cecf25f28b7 404 175 - 1.472 ms[39m
+[35m[39m
+2022-05-02 08:36:51:3651 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:36:51:3651 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:36:52:3652 - [35mhttp[39m - [35mPATCH /api/movie/626fb93930620cecf25f28b7 404 31 - 15.530 ms[39m
+[35m[39m
+2022-05-02 08:38:20:3820 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:38:20:3820 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:39:22:3922 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:39:22:3922 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2022-05-02 08:40:38:4038 - [35mhttp[39m - [35mPATCH /api/movie/626fbb2418fa4c3705dff19b 200 673 - 42.034 ms[39m
+[35m[39m
+2022-05-02 08:41:21:4121 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2022-05-02 08:41:21:4121 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
